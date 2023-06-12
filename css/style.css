@@ -567,33 +567,6 @@ margin-top: 15px;
     flex-direction: row;
     margin-left: -50px;
 }
-.big-foot{
-    margin-top: 10px;
-    
-    width: 1599px;
-    margin-left: -400px;
-    height: 200px;
-    background-color: #16697A;
-
-}
-.foot{
-    margin-top: 20px;
-    color: yellow;
-}
-.foot-h5{
-    font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height, or 150% */
-
-letter-spacing: 0.1px;
-
-/* light-text-color */
-
-color: #FFFFFF;
-}
-.foot-p{
-    margin-top: 20px0;
+.img-30 img{
+    width: 100%;
 }
